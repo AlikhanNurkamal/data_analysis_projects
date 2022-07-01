@@ -1,0 +1,2 @@
+This is the analysis of the sales in the USA in 2019. The project is based on the YouTube video of Keith Galli and the data has been taken from his GitHub repository.
+The analysis has been done as a practice to hone my skills in using and manipulating Python libraries such as NumPy, Pandas, and Matplotlib. Moreover, the guidance of Keith Galli gave me understanding of what kind of information a Data Scientist seeks in the data, what and how insights can be revealed.
