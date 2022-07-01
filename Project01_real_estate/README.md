@@ -1,7 +1,7 @@
 This is a thorough analysis of the real estate prices in Russia based on multiple conditions: total area of the flat, number of rooms, floor, distance to the city center, distance to the airport, number of parks and ponds in the radius of 3km and distance to the nearest parks and ponds.
 The project was based on identifying how these parameters affect the final price of the real estate in order to track abnormal values and fraudulent activity when posting an advertisement for the sale of the housing.
 
-Data:
+Data features:
 •	airports_nearest — distance to the closest airport (m)
 •	balcony — number of balconies
 •	ceiling_height — height of the ceiling (m)
